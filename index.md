@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Zhengji Li
+title: CSSE blog
 description: A blog that I had to make for CSSE
 author: Zhengji Li
 image: /images/mario_animation.png
