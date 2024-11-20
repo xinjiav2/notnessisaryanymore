@@ -2,8 +2,8 @@ title: Test blog
 description: "Class of 2025"
 owner_name: Zhengji Li
 github_username: xinjiav2
-github_repo: "portfolio_2025" 
-baseurl: "/portfolio_2025"
+github_repo: "portfolio_2025_zhengji_li" 
+baseurl: "/portfolio_2025_zhengji_li"
 future: true
 remote_theme: jekyll/minima
 minima:
