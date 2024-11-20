@@ -1,8 +1,8 @@
 ---
 layout: post 
-title: Course Descriptions
-description: An overview of Computer Science pathway at Del Norte High School
-author: John Mortensen, Vivian Ni, Bria Gilliam
+title: Zhengji Li
+description: A blog that I had to make for CSSE
+author: Zhengji Li
 image: /images/mario_animation.png
 hide: true
 menu: nav/home.html
