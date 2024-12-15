@@ -1,9 +1,9 @@
-title: Blog - Zhengji Li
+title: ddddddddddddddddddddddddddddddddddddddddddd
 description: "A test blog for CSSE at Del Norte"
-owner_name: Zhengji Li
+owner_name: Zhengjie Xu
 github_username: xinjiav2
-github_repo: "portfolio_2025_zhengji_li" 
-baseurl: "/portfolio_2025_zhengji_li"
+github_repo: "notnessisaryanymore" 
+baseurl: "/notnessisaryanymore"
 future: true
 remote_theme: jekyll/minima
 minima:
